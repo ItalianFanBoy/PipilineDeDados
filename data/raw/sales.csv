@@ -1,0 +1,7 @@
+order_id,date,store,sku,units,unit_price
+1001,2024-01-02,Loja Centro,SN-100,4,120.50
+1002,2024-01-03,Loja Norte,SN-100,2,125.00
+1003,2024-01-03,Loja Centro,SN-200,1,220.00
+1004,2024-01-05,Loja Sul,SN-300,6,80.00
+1005,2024-01-06,Loja Norte,SN-200,2,215.00
+1006,2024-01-07,Loja Centro,SN-300,3,82.00

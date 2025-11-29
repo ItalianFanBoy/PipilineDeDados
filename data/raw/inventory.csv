@@ -1,0 +1,7 @@
+sku,store,on_hand,reorder_point,category
+SN-100,Loja Centro,18,10,Smartphone
+SN-100,Loja Norte,12,8,Smartphone
+SN-200,Loja Centro,9,6,Laptop
+SN-200,Loja Norte,7,5,Laptop
+SN-300,Loja Centro,5,6,Accessory
+SN-300,Loja Sul,11,7,Accessory

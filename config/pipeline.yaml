@@ -1,0 +1,11 @@
+paths:
+  sales: data/raw/sales.csv
+  inventory: data/raw/inventory.csv
+  output_dir: data/output
+  database: data/output/pipeline.db
+  metrics_export: data/output/metrics.parquet
+
+load:
+  replace_existing: true
+logging:
+  level: INFO
